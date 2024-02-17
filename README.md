@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Nesse projeto foi desenvolvido um agregador de links para organizar os jogos que o usuário mais gosta, os canais e os streamers e também para agrupar as suas redes sociais.
 
 ## 💻 Github Pages
-[🔗 Clique aqui para acessar](https://jhessfrois.github.io/nlw-return-origin/)
+[🔗 Clique aqui para acessar](https://jhessfrois.github.io/nlw-esports-explorer/)
 
 ## **🤍 Contato**
 
