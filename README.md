@@ -1,7 +1,7 @@
 <p align="center">
   <img alt="Logo NLW eSports - Rocketseat" src="https://i.imgur.com/BBqPs1i.png" width="200px" />
 </p>
-
+ 
 <p align="center">
 Aplicação desenvolvida no NLW eSports da Rocketseat na trilha Explorer.
 </p>
